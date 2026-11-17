@@ -1,0 +1,451 @@
+identificativo,zona,data_iscrizione,numero_richieste,importo_totale_speso,giorni_ultima_richiesta,categoria_servizio_preferita
+C001,Centro,2026-01-03,3,160.34,80,Consulenza
+C002,Sud,2026-01-22,25,1839.41,4,Manutenzione
+C003,Isole,2026-03-29,16,1666.4,14,Manutenzione
+C004,Sud,2026-01-17,1,74.76,81,Consulenza
+C005,Nord,2026-09-18,2,64.0,3,Manutenzione
+C006,Centro,2026-10-11,3,307.98,7,Consulenza
+C007,Nord,2026-04-27,23,1958.76,2,Manutenzione
+C008,Sud,2026-01-14,8,564.09,16,Consegna Rapida
+C009,Nord,2026-01-22,28,1269.27,2,Consulenza
+C010,Isole,2025-12-26,10,628.03,38,Assistenza Tech
+C011,Sud,2026-04-01,6,836.9,23,Assistenza Tech
+C012,Isole,2026-03-27,21,1425.0,14,Manutenzione
+C013,Nord,2026-09-21,5,226.03,9,Consulenza
+C014,Nord,2025-12-28,23,1984.26,8,Manutenzione
+C015,Isole,2025-11-24,25,1038.61,8,Consulenza
+C016,Centro,2026-10-04,2,157.54,9,Consegna Rapida
+C017,Centro,2026-10-09,2,78.62,7,Consegna Rapida
+C018,Sud,2026-10-31,4,241.27,3,Consulenza
+C019,Centro,2025-11-25,3,156.94,149,Consegna Rapida
+C020,Centro,2026-01-07,11,366.53,22,Manutenzione
+C021,Centro,2026-10-02,4,218.98,4,Consulenza
+C022,Nord,2026-10-10,3,110.92,7,Manutenzione
+C023,Isole,2026-10-02,1,81.65,4,Assistenza Tech
+C024,Sud,2026-02-26,11,837.65,42,Manutenzione
+C025,Nord,2026-03-24,8,511.54,12,Manutenzione
+C026,Sud,2025-12-10,10,433.26,33,Consulenza
+C027,Centro,2026-05-27,5,542.3,21,Assistenza Tech
+C028,Sud,2026-02-25,5,898.64,11,Manutenzione
+C029,Isole,2025-12-27,15,1561.22,14,Assistenza Tech
+C030,Nord,2026-01-03,10,445.23,13,Consulenza
+C031,Centro,2026-03-11,11,781.88,14,Consulenza
+C032,Sud,2025-12-16,11,354.17,42,Assistenza Tech
+C033,Isole,2025-11-23,27,1830.03,12,Manutenzione
+C034,Centro,2026-05-14,7,509.2,16,Assistenza Tech
+C035,Nord,2026-06-24,11,862.04,10,Consegna Rapida
+C036,Isole,2026-01-27,21,1449.74,10,Consegna Rapida
+C037,Centro,2026-05-04,23,1419.96,1,Consulenza
+C038,Nord,2026-04-07,1,182.08,178,Consulenza
+C039,Nord,2026-09-29,3,306.9,6,Manutenzione
+C040,Isole,2026-02-11,22,1742.41,8,Consulenza
+C041,Sud,2026-02-09,5,698.1,38,Manutenzione
+C042,Isole,2026-04-28,10,569.05,42,Assistenza Tech
+C043,Nord,2026-02-20,8,519.88,17,Assistenza Tech
+C044,Centro,2026-03-08,8,605.29,31,Consegna Rapida
+C045,Sud,2026-10-05,5,196.02,8,Assistenza Tech
+C046,Centro,2025-12-20,5,646.14,42,Assistenza Tech
+C047,Isole,2026-01-14,8,314.59,26,Consegna Rapida
+C048,Isole,2026-03-10,1,179.03,164,Assistenza Tech
+C049,Isole,2026-03-11,9,643.38,42,Consegna Rapida
+C050,Centro,2026-02-27,11,461.08,12,Consegna Rapida
+C051,Sud,2026-03-13,10,717.62,33,Consegna Rapida
+C052,Isole,2025-12-07,2,65.75,165,Manutenzione
+C053,Sud,2026-03-08,1,146.45,107,Consegna Rapida
+C054,Nord,2026-04-03,3,66.12,83,Assistenza Tech
+C055,Isole,2026-04-28,18,1757.95,1,Assistenza Tech
+C056,Isole,2026-01-08,3,80.84,151,Assistenza Tech
+C057,Sud,2026-10-10,3,189.68,6,Consulenza
+C058,Nord,2026-01-25,29,1232.23,12,Consulenza
+C059,Nord,2025-12-28,1,102.31,65,Consulenza
+C060,Isole,2026-06-22,7,682.46,25,Consulenza
+C061,Sud,2026-10-04,3,288.56,3,Consulenza
+C062,Sud,2026-02-28,6,877.59,32,Manutenzione
+C063,Nord,2026-03-31,6,849.13,43,Consulenza
+C064,Sud,2026-10-27,5,133.98,7,Assistenza Tech
+C065,Sud,2026-01-01,8,639.62,31,Consegna Rapida
+C066,Nord,2025-12-13,29,848.87,14,Assistenza Tech
+C067,Sud,2026-03-26,11,507.78,39,Assistenza Tech
+C068,Centro,2026-10-01,5,316.0,4,Assistenza Tech
+C069,Sud,2026-04-12,1,117.09,168,Assistenza Tech
+C070,Isole,2026-01-22,2,24.77,91,Consulenza
+C071,Isole,2026-04-29,8,377.1,21,Consulenza
+C072,Nord,2026-09-27,3,108.74,2,Consegna Rapida
+C073,Centro,2026-09-21,5,303.46,2,Consegna Rapida
+C074,Centro,2026-09-26,2,238.68,8,Consulenza
+C075,Nord,2026-01-07,2,96.22,83,Consegna Rapida
+C076,Isole,2025-12-27,11,648.33,32,Consulenza
+C077,Isole,2026-03-28,11,750.52,34,Consegna Rapida
+C078,Nord,2026-01-20,2,109.38,148,Assistenza Tech
+C079,Nord,2025-12-10,18,813.01,9,Manutenzione
+C080,Isole,2026-03-16,10,706.06,28,Consegna Rapida
+C081,Isole,2026-03-14,26,1194.4,11,Consegna Rapida
+C082,Centro,2025-11-25,1,187.57,117,Consulenza
+C083,Centro,2026-02-09,11,627.55,20,Assistenza Tech
+C084,Centro,2026-10-25,2,235.47,6,Consulenza
+C085,Sud,2026-06-30,5,793.12,11,Consegna Rapida
+C086,Nord,2026-04-25,9,522.39,26,Consegna Rapida
+C087,Nord,2025-12-29,2,147.47,78,Consegna Rapida
+C088,Sud,2026-01-13,6,498.15,12,Manutenzione
+C089,Nord,2026-05-05,6,744.58,17,Assistenza Tech
+C090,Centro,2026-10-07,3,225.01,9,Consegna Rapida
+C091,Isole,2026-01-13,10,781.27,41,Consegna Rapida
+C092,Nord,2025-11-03,2,186.44,160,Manutenzione
+C093,Centro,2026-04-02,2,49.92,108,Manutenzione
+C094,Centro,2026-04-04,2,125.18,75,Manutenzione
+C095,Sud,2026-01-09,20,1346.79,12,Consulenza
+C096,Isole,2025-11-09,24,1265.92,12,Assistenza Tech
+C097,Isole,2025-12-16,8,891.73,26,Consulenza
+C098,Nord,2025-12-03,1,43.97,94,Consegna Rapida
+C099,Sud,2026-10-02,1,175.47,8,Manutenzione
+C100,Sud,2026-03-02,21,1293.51,6,Manutenzione
+C101,Sud,2026-01-20,3,126.94,122,Consulenza
+C102,Centro,2026-10-31,1,190.61,3,Manutenzione
+C103,Nord,2026-01-24,26,1775.48,5,Consulenza
+C104,Centro,2026-10-15,5,333.43,3,Consegna Rapida
+C105,Nord,2026-07-01,5,872.43,22,Assistenza Tech
+C106,Sud,2026-09-23,2,157.45,8,Consegna Rapida
+C107,Sud,2025-12-24,10,798.82,21,Assistenza Tech
+C108,Sud,2026-10-17,3,171.04,7,Consulenza
+C109,Nord,2026-09-28,3,113.89,6,Consegna Rapida
+C110,Sud,2026-09-24,3,77.3,2,Assistenza Tech
+C111,Nord,2026-01-25,2,131.98,110,Consulenza
+C112,Nord,2026-02-11,22,1810.51,1,Consegna Rapida
+C113,Isole,2026-03-04,1,82.53,166,Consegna Rapida
+C114,Isole,2026-01-08,23,1352.14,11,Manutenzione
+C115,Isole,2026-01-30,18,1214.8,3,Consulenza
+C116,Centro,2026-10-13,2,230.58,3,Manutenzione
+C117,Nord,2026-04-26,6,406.21,30,Consegna Rapida
+C118,Nord,2025-11-29,6,836.53,23,Consegna Rapida
+C119,Nord,2026-03-11,23,1377.37,6,Manutenzione
+C120,Sud,2026-04-15,1,20.47,95,Manutenzione
+C121,Isole,2026-10-10,4,112.8,8,Consegna Rapida
+C122,Sud,2025-11-13,2,103.26,168,Assistenza Tech
+C123,Sud,2025-11-09,11,712.3,32,Manutenzione
+C124,Centro,2026-01-11,16,1336.89,3,Manutenzione
+C125,Centro,2025-11-16,9,409.37,26,Consulenza
+C126,Sud,2026-06-10,5,834.32,29,Assistenza Tech
+C127,Isole,2025-12-26,1,106.32,159,Assistenza Tech
+C128,Sud,2026-09-25,1,219.34,9,Assistenza Tech
+C129,Sud,2026-09-25,2,123.31,6,Consulenza
+C130,Nord,2026-01-14,19,983.43,7,Consegna Rapida
+C131,Isole,2026-03-12,28,1767.04,8,Assistenza Tech
+C132,Nord,2025-12-05,29,1292.48,4,Manutenzione
+C133,Centro,2026-02-21,8,850.44,24,Assistenza Tech
+C134,Sud,2026-04-17,10,701.19,11,Consegna Rapida
+C135,Centro,2026-02-01,9,761.7,15,Consulenza
+C136,Sud,2026-05-19,5,741.75,21,Consulenza
+C137,Nord,2026-01-06,2,124.62,70,Assistenza Tech
+C138,Nord,2026-10-09,2,186.28,5,Manutenzione
+C139,Sud,2026-06-18,6,352.72,18,Consulenza
+C140,Nord,2026-04-01,10,547.1,39,Manutenzione
+C141,Nord,2025-11-30,2,42.37,179,Consegna Rapida
+C142,Sud,2026-05-06,5,744.67,31,Consulenza
+C143,Isole,2026-04-06,23,1700.6,12,Consegna Rapida
+C144,Centro,2026-03-05,17,1598.24,10,Consegna Rapida
+C145,Isole,2026-03-08,1,142.94,131,Consegna Rapida
+C146,Isole,2026-02-12,1,74.25,82,Assistenza Tech
+C147,Centro,2025-12-11,5,534.89,11,Consegna Rapida
+C148,Nord,2026-04-29,11,370.14,15,Consulenza
+C149,Centro,2026-06-02,8,776.42,38,Manutenzione
+C150,Isole,2025-11-12,1,47.3,156,Assistenza Tech
+C151,Centro,2026-01-03,20,1656.88,5,Consegna Rapida
+C152,Sud,2026-01-17,27,932.76,4,Consegna Rapida
+C153,Isole,2026-05-19,9,623.92,38,Consulenza
+C154,Isole,2025-11-03,3,135.41,174,Consulenza
+C155,Isole,2026-03-23,9,796.08,19,Assistenza Tech
+C156,Sud,2025-11-29,11,472.76,21,Assistenza Tech
+C157,Nord,2025-11-11,5,453.61,21,Consulenza
+C158,Isole,2026-10-04,5,262.17,1,Consulenza
+C159,Centro,2026-03-26,17,1683.73,8,Assistenza Tech
+C160,Sud,2026-03-17,10,441.54,35,Manutenzione
+C161,Isole,2025-12-22,1,176.58,114,Assistenza Tech
+C162,Isole,2026-01-06,5,746.55,19,Manutenzione
+C163,Nord,2026-10-06,3,169.45,9,Consegna Rapida
+C164,Centro,2026-06-18,6,588.5,36,Assistenza Tech
+C165,Isole,2026-04-11,25,969.03,8,Manutenzione
+C166,Centro,2026-02-01,5,517.44,31,Consulenza
+C167,Isole,2026-10-12,1,338.32,1,Assistenza Tech
+C168,Sud,2026-05-05,27,1021.36,7,Assistenza Tech
+C169,Isole,2026-05-04,7,425.94,28,Consegna Rapida
+C170,Isole,2026-04-17,27,1253.27,8,Assistenza Tech
+C171,Sud,2025-12-24,3,114.98,177,Consegna Rapida
+C172,Sud,2026-09-23,4,104.58,7,Assistenza Tech
+C173,Centro,2026-04-09,7,686.4,42,Consulenza
+C174,Centro,2026-02-18,3,138.61,124,Consulenza
+C175,Centro,2026-05-12,7,603.3,17,Manutenzione
+C176,Nord,2026-09-28,3,245.82,8,Manutenzione
+C177,Centro,2025-11-02,2,169.44,127,Consulenza
+C178,Sud,2026-04-22,11,837.8,16,Consegna Rapida
+C179,Centro,2026-05-30,7,373.67,28,Consegna Rapida
+C180,Nord,2026-10-21,1,295.23,4,Consulenza
+C181,Sud,2026-06-30,11,320.54,29,Manutenzione
+C182,Nord,2026-01-07,1,98.5,103,Assistenza Tech
+C183,Isole,2026-02-16,1,176.32,179,Assistenza Tech
+C184,Sud,2026-04-02,1,107.26,140,Manutenzione
+C185,Nord,2026-10-10,1,127.37,6,Consulenza
+C186,Centro,2026-03-10,2,182.1,157,Assistenza Tech
+C187,Centro,2026-03-13,1,166.71,100,Assistenza Tech
+C188,Nord,2026-09-20,2,266.06,5,Consegna Rapida
+C189,Sud,2026-06-23,11,824.33,43,Consegna Rapida
+C190,Nord,2025-12-04,6,848.65,35,Consegna Rapida
+C191,Isole,2026-05-15,6,399.77,10,Assistenza Tech
+C192,Nord,2026-04-05,1,90.07,99,Consulenza
+C193,Isole,2026-10-08,3,334.79,7,Consulenza
+C194,Sud,2026-10-13,1,130.97,4,Assistenza Tech
+C195,Centro,2025-12-03,28,1946.28,11,Consulenza
+C196,Sud,2026-05-27,5,547.68,34,Consegna Rapida
+C197,Centro,2026-01-24,26,1633.64,14,Manutenzione
+C198,Sud,2026-04-22,8,784.46,26,Consulenza
+C199,Nord,2026-04-13,8,625.14,33,Manutenzione
+C200,Isole,2026-03-22,3,150.34,139,Manutenzione
+C201,Sud,2026-10-15,3,346.3,7,Consegna Rapida
+C202,Centro,2026-10-25,2,143.86,5,Assistenza Tech
+C203,Nord,2026-01-24,2,95.92,152,Manutenzione
+C204,Centro,2026-01-23,17,1182.92,10,Assistenza Tech
+C205,Nord,2026-10-29,3,218.2,2,Assistenza Tech
+C206,Nord,2026-03-07,11,542.69,24,Manutenzione
+C207,Nord,2026-03-31,1,152.81,92,Consulenza
+C208,Nord,2026-03-13,2,24.39,101,Assistenza Tech
+C209,Sud,2025-12-14,1,89.11,155,Manutenzione
+C210,Centro,2026-01-02,10,353.13,25,Assistenza Tech
+C211,Isole,2026-02-22,10,550.66,29,Manutenzione
+C212,Nord,2026-02-27,27,1225.55,14,Assistenza Tech
+C213,Sud,2026-10-17,1,323.1,9,Assistenza Tech
+C214,Nord,2026-09-25,4,336.92,5,Consegna Rapida
+C215,Centro,2026-05-04,11,866.84,20,Consulenza
+C216,Nord,2025-12-09,18,877.98,8,Assistenza Tech
+C217,Nord,2026-03-20,7,607.61,19,Manutenzione
+C218,Sud,2026-06-30,5,874.36,15,Consegna Rapida
+C219,Nord,2025-12-15,1,113.29,79,Assistenza Tech
+C220,Nord,2025-12-01,7,754.94,26,Consegna Rapida
+C221,Centro,2026-04-23,9,434.29,34,Consulenza
+C222,Isole,2025-12-14,3,177.94,126,Assistenza Tech
+C223,Isole,2026-04-07,1,173.39,101,Consegna Rapida
+C224,Centro,2025-12-13,3,35.66,147,Consulenza
+C225,Centro,2025-12-19,9,329.27,27,Assistenza Tech
+C226,Nord,2026-01-12,26,891.36,1,Consulenza
+C227,Isole,2026-05-10,9,843.91,12,Consegna Rapida
+C228,Isole,2025-12-01,9,460.22,15,Assistenza Tech
+C229,Centro,2026-10-19,1,97.2,9,Consulenza
+C230,Centro,2026-10-25,2,81.75,6,Consegna Rapida
+C231,Nord,2025-11-29,1,25.26,82,Manutenzione
+C232,Isole,2025-12-11,11,396.46,11,Manutenzione
+C233,Nord,2026-03-14,6,472.22,36,Consegna Rapida
+C234,Nord,2026-01-17,16,1560.81,8,Consegna Rapida
+C235,Centro,2026-03-04,28,822.11,9,Consulenza
+C236,Isole,2025-12-09,19,923.01,4,Consulenza
+C237,Isole,2025-12-07,25,999.65,12,Consulenza
+C238,Nord,2026-05-16,10,672.55,27,Assistenza Tech
+C239,Sud,2026-10-20,4,274.9,3,Consulenza
+C240,Centro,2026-03-09,20,1246.2,3,Consegna Rapida
+C241,Centro,2026-01-27,16,1996.55,1,Assistenza Tech
+C242,Nord,2026-01-10,21,1791.1,11,Consegna Rapida
+C243,Isole,2026-01-25,2,43.64,126,Assistenza Tech
+C244,Sud,2026-02-11,27,1932.34,5,Consulenza
+C245,Sud,2026-01-24,7,487.17,24,Manutenzione
+C246,Nord,2026-04-21,23,1657.91,2,Manutenzione
+C247,Isole,2026-04-03,8,411.32,26,Consulenza
+C248,Nord,2025-12-06,2,115.46,130,Consulenza
+C249,Nord,2026-05-20,8,880.51,29,Consulenza
+C250,Centro,2026-02-11,21,950.22,12,Consegna Rapida
+C251,Isole,2025-11-02,5,396.5,31,Consegna Rapida
+C252,Nord,2026-02-03,3,197.18,140,Assistenza Tech
+C253,Nord,2026-09-30,2,193.98,6,Assistenza Tech
+C254,Centro,2026-01-18,2,183.41,70,Consegna Rapida
+C255,Nord,2026-02-09,28,970.99,6,Consegna Rapida
+C256,Isole,2025-11-22,6,495.88,11,Consulenza
+C257,Nord,2026-02-05,5,794.71,35,Consegna Rapida
+C258,Centro,2025-11-24,2,144.1,173,Assistenza Tech
+C259,Sud,2026-01-03,15,1941.86,13,Assistenza Tech
+C260,Sud,2025-12-23,3,130.33,100,Consegna Rapida
+C261,Isole,2025-12-10,2,161.02,170,Consulenza
+C262,Centro,2025-12-10,2,167.11,85,Manutenzione
+C263,Centro,2026-06-23,6,563.16,27,Manutenzione
+C264,Centro,2026-03-12,27,1538.89,3,Consulenza
+C265,Sud,2026-09-30,5,286.91,7,Consulenza
+C266,Centro,2026-09-30,2,245.98,5,Consulenza
+C267,Isole,2025-12-28,8,419.73,44,Consegna Rapida
+C268,Nord,2026-02-01,15,1808.54,1,Assistenza Tech
+C269,Nord,2026-03-19,8,677.26,37,Manutenzione
+C270,Sud,2026-03-22,6,820.22,41,Consulenza
+C271,Isole,2026-09-26,4,312.03,2,Assistenza Tech
+C272,Sud,2026-02-24,7,470.31,21,Manutenzione
+C273,Nord,2026-09-26,1,89.47,8,Assistenza Tech
+C274,Isole,2026-01-07,26,1247.42,2,Assistenza Tech
+C275,Nord,2026-01-01,23,1096.68,12,Consegna Rapida
+C276,Centro,2026-02-10,5,697.57,15,Assistenza Tech
+C277,Centro,2025-11-03,2,174.44,64,Consegna Rapida
+C278,Nord,2026-04-16,7,830.23,23,Manutenzione
+C279,Sud,2026-06-15,10,387.45,14,Consegna Rapida
+C280,Isole,2026-03-19,1,50.07,143,Manutenzione
+C281,Nord,2026-09-18,5,210.05,1,Manutenzione
+C282,Isole,2025-11-19,2,57.05,120,Consulenza
+C283,Sud,2026-04-07,29,1077.36,10,Assistenza Tech
+C284,Nord,2026-01-25,9,860.33,14,Manutenzione
+C285,Nord,2026-03-24,24,1276.85,2,Manutenzione
+C286,Sud,2026-01-02,9,820.75,40,Assistenza Tech
+C287,Centro,2026-02-27,8,619.35,32,Manutenzione
+C288,Sud,2026-04-28,16,1042.22,7,Consegna Rapida
+C289,Sud,2026-05-01,22,987.4,6,Consegna Rapida
+C290,Centro,2026-01-15,5,802.87,35,Assistenza Tech
+C291,Sud,2025-11-28,5,798.53,21,Assistenza Tech
+C292,Isole,2026-10-27,1,230.18,5,Consegna Rapida
+C293,Nord,2026-05-03,6,899.65,15,Assistenza Tech
+C294,Nord,2026-01-27,9,769.43,22,Consegna Rapida
+C295,Nord,2026-01-04,1,157.73,63,Manutenzione
+C296,Centro,2025-12-28,1,163.61,142,Assistenza Tech
+C297,Centro,2025-12-14,20,1578.89,5,Consegna Rapida
+C298,Nord,2026-09-29,5,164.13,9,Consulenza
+C299,Nord,2026-03-28,8,308.8,20,Consulenza
+C300,Isole,2026-10-11,2,189.05,3,Assistenza Tech
+C301,Sud,2026-02-01,10,848.54,38,Consulenza
+C302,Nord,2026-04-21,19,1095.28,4,Consulenza
+C303,Centro,2026-02-04,10,730.87,30,Consulenza
+C304,Centro,2026-03-11,1,181.65,84,Manutenzione
+C305,Centro,2026-04-02,19,1375.02,3,Manutenzione
+C306,Sud,2026-10-24,5,135.46,3,Consegna Rapida
+C307,Isole,2026-10-06,2,169.97,4,Assistenza Tech
+C308,Nord,2025-12-16,29,1831.3,7,Assistenza Tech
+C309,Centro,2025-12-21,5,640.39,29,Manutenzione
+C310,Sud,2025-12-18,1,133.97,72,Manutenzione
+C311,Sud,2026-06-20,8,436.85,18,Assistenza Tech
+C312,Sud,2025-12-09,9,843.53,33,Consulenza
+C313,Nord,2026-03-27,8,464.88,28,Assistenza Tech
+C314,Isole,2026-10-27,2,280.0,1,Manutenzione
+C315,Centro,2026-10-15,2,191.87,5,Consegna Rapida
+C316,Sud,2026-06-24,7,664.26,41,Consulenza
+C317,Sud,2026-07-03,9,335.07,34,Consegna Rapida
+C318,Isole,2026-09-23,2,171.3,6,Manutenzione
+C319,Nord,2026-02-27,22,954.07,3,Consegna Rapida
+C320,Sud,2026-09-25,5,73.83,8,Assistenza Tech
+C321,Nord,2025-11-18,22,1240.35,6,Consulenza
+C322,Centro,2026-01-14,8,340.57,14,Consulenza
+C323,Centro,2026-05-22,10,655.69,12,Consulenza
+C324,Nord,2026-03-25,10,331.4,11,Assistenza Tech
+C325,Nord,2026-10-27,4,68.04,4,Manutenzione
+C326,Nord,2026-10-16,1,101.14,9,Consegna Rapida
+C327,Isole,2025-11-10,8,584.93,39,Consegna Rapida
+C328,Centro,2025-12-29,2,198.65,163,Consulenza
+C329,Nord,2026-10-24,4,237.08,2,Consegna Rapida
+C330,Centro,2025-12-15,26,1738.43,2,Consulenza
+C331,Isole,2026-07-03,9,516.08,30,Consegna Rapida
+C332,Centro,2026-10-06,3,297.59,7,Consegna Rapida
+C333,Isole,2026-04-10,7,771.77,24,Assistenza Tech
+C334,Isole,2026-01-13,8,858.36,27,Consegna Rapida
+C335,Centro,2026-01-26,2,149.86,126,Assistenza Tech
+C336,Centro,2026-01-15,3,92.54,125,Consulenza
+C337,Sud,2026-06-10,8,643.82,19,Manutenzione
+C338,Sud,2026-05-01,5,853.65,23,Consegna Rapida
+C339,Sud,2025-12-03,1,77.16,158,Consulenza
+C340,Nord,2026-04-17,9,315.49,34,Consegna Rapida
+C341,Isole,2026-06-15,8,487.09,23,Consegna Rapida
+C342,Sud,2025-12-27,20,800.4,11,Consegna Rapida
+C343,Isole,2026-04-26,17,1477.33,2,Manutenzione
+C344,Nord,2025-12-16,6,334.67,24,Assistenza Tech
+C345,Centro,2026-01-11,19,945.66,14,Manutenzione
+C346,Centro,2026-09-22,1,202.83,7,Consulenza
+C347,Nord,2026-09-24,4,102.13,4,Consegna Rapida
+C348,Centro,2026-04-29,18,1285.76,13,Assistenza Tech
+C349,Centro,2026-02-22,11,740.17,31,Consulenza
+C350,Sud,2026-02-06,7,551.15,24,Manutenzione
+C351,Sud,2025-11-06,21,1542.74,13,Manutenzione
+C352,Sud,2025-11-28,1,39.75,119,Consegna Rapida
+C353,Centro,2026-03-13,3,46.86,127,Consegna Rapida
+C354,Isole,2026-10-03,3,162.77,4,Consulenza
+C355,Sud,2026-03-30,1,43.97,123,Assistenza Tech
+C356,Isole,2026-01-09,2,98.77,88,Consegna Rapida
+C357,Sud,2026-04-02,26,1737.4,12,Assistenza Tech
+C358,Isole,2026-04-08,5,668.36,32,Manutenzione
+C359,Nord,2026-04-28,26,1414.67,5,Manutenzione
+C360,Nord,2025-12-05,25,1590.84,3,Consulenza
+C361,Centro,2025-11-28,18,1685.01,10,Consulenza
+C362,Sud,2026-05-15,11,865.39,37,Consulenza
+C363,Centro,2026-03-03,28,1796.64,8,Assistenza Tech
+C364,Sud,2026-01-22,26,1878.68,8,Assistenza Tech
+C365,Nord,2026-04-18,6,306.26,13,Consegna Rapida
+C366,Nord,2026-04-06,3,27.55,173,Consegna Rapida
+C367,Nord,2026-04-01,6,661.13,41,Consulenza
+C368,Isole,2026-09-22,2,88.43,1,Consulenza
+C369,Sud,2026-01-12,22,1318.49,12,Manutenzione
+C370,Sud,2025-11-20,9,705.59,30,Consulenza
+C371,Sud,2026-02-06,11,807.91,27,Consulenza
+C372,Nord,2026-02-04,10,737.09,16,Assistenza Tech
+C373,Isole,2026-04-14,20,1703.82,9,Consulenza
+C374,Isole,2026-10-05,2,89.52,4,Consegna Rapida
+C375,Sud,2026-06-13,11,804.42,22,Manutenzione
+C376,Centro,2026-10-09,3,139.26,3,Consegna Rapida
+C377,Nord,2025-12-26,3,177.88,160,Assistenza Tech
+C378,Isole,2026-10-31,1,272.51,3,Assistenza Tech
+C379,Isole,2026-04-26,24,1589.07,9,Consulenza
+C380,Nord,2025-12-25,3,53.84,100,Consulenza
+C381,Nord,2026-10-20,2,278.3,6,Consegna Rapida
+C382,Nord,2026-04-21,6,755.21,29,Assistenza Tech
+C383,Isole,2025-12-05,2,177.8,160,Manutenzione
+C384,Centro,2026-10-06,2,315.86,3,Consegna Rapida
+C385,Nord,2025-12-29,11,301.93,13,Assistenza Tech
+C386,Nord,2026-04-22,21,1849.11,13,Consegna Rapida
+C387,Centro,2026-01-06,24,1473.78,4,Consulenza
+C388,Sud,2026-10-13,2,230.64,3,Consulenza
+C389,Sud,2026-03-27,10,889.18,40,Consulenza
+C390,Isole,2026-02-09,8,373.43,42,Manutenzione
+C391,Centro,2026-03-10,26,1682.8,11,Consulenza
+C392,Isole,2026-10-05,1,241.27,4,Assistenza Tech
+C393,Centro,2025-11-23,3,153.2,149,Assistenza Tech
+C394,Nord,2026-10-02,2,150.35,1,Consegna Rapida
+C395,Sud,2026-01-16,5,857.77,28,Assistenza Tech
+C396,Centro,2026-05-17,9,805.16,29,Assistenza Tech
+C397,Nord,2026-03-08,2,133.61,162,Assistenza Tech
+C398,Sud,2026-04-12,5,304.22,40,Manutenzione
+C399,Isole,2025-11-09,2,70.89,165,Consegna Rapida
+C400,Sud,2026-04-16,11,843.75,19,Consulenza
+C401,Isole,2026-05-21,5,766.03,18,Assistenza Tech
+C402,Isole,2026-04-15,16,1887.72,9,Consulenza
+C403,Isole,2025-12-07,11,351.85,24,Assistenza Tech
+C404,Isole,2026-01-16,11,829.28,30,Consulenza
+C405,Sud,2026-03-26,2,151.55,117,Consulenza
+C406,Sud,2026-10-13,2,107.36,1,Consegna Rapida
+C407,Centro,2025-12-20,1,52.94,92,Consegna Rapida
+C408,Isole,2026-04-15,11,710.25,42,Manutenzione
+C409,Isole,2026-01-09,8,733.69,31,Consegna Rapida
+C410,Nord,2026-02-10,20,1816.3,10,Assistenza Tech
+C411,Nord,2026-10-16,1,250.71,2,Assistenza Tech
+C412,Isole,2026-09-24,4,68.68,8,Manutenzione
+C413,Isole,2026-02-20,7,771.77,41,Manutenzione
+C414,Nord,2026-02-12,8,754.05,31,Consulenza
+C415,Isole,2025-11-12,2,49.09,73,Consulenza
+C416,Nord,2026-10-07,4,281.6,2,Consegna Rapida
+C417,Isole,2026-06-29,8,623.22,44,Assistenza Tech
+C418,Centro,2025-12-20,7,528.25,28,Consulenza
+C419,Centro,2026-05-25,6,356.42,37,Manutenzione
+C420,Isole,2026-10-14,1,168.79,8,Consegna Rapida
+C421,Sud,2026-10-29,4,99.81,3,Consulenza
+C422,Centro,2026-04-28,20,968.85,1,Assistenza Tech
+C423,Nord,2026-10-13,3,143.95,6,Consulenza
+C424,Isole,2026-02-12,2,77.54,60,Consegna Rapida
+C425,Nord,2025-12-01,28,1561.61,4,Manutenzione
+C426,Sud,2026-06-10,11,377.9,14,Assistenza Tech
+C427,Centro,2025-12-24,18,1868.31,14,Consegna Rapida
+C428,Centro,2025-12-06,5,791.44,15,Consegna Rapida
+C429,Isole,2025-12-06,2,167.89,167,Consulenza
+C430,Isole,2025-12-27,9,367.77,35,Consulenza
+C431,Nord,2026-05-08,6,508.76,27,Consegna Rapida
+C432,Centro,2026-04-02,10,742.84,20,Consegna Rapida
+C433,Centro,2026-10-30,4,271.79,2,Manutenzione
+C434,Centro,2025-12-09,29,1009.86,9,Consulenza
+C435,Isole,2026-04-12,3,33.87,126,Consegna Rapida
+C436,Sud,2026-05-09,11,427.59,44,Consegna Rapida
+C437,Nord,2026-10-23,4,311.36,7,Consegna Rapida
+C438,Centro,2026-10-05,2,245.23,6,Consulenza
+C439,Centro,2026-01-26,22,1255.4,14,Manutenzione
+C440,Nord,2026-02-11,17,1972.16,14,Consulenza
+C441,Nord,2026-02-05,10,850.85,32,Consegna Rapida
+C442,Isole,2025-12-16,7,795.62,28,Consegna Rapida
+C443,Isole,2025-12-16,2,150.8,178,Consulenza
+C444,Isole,2026-02-14,2,59.32,112,Manutenzione
+C445,Isole,2026-02-13,5,307.44,34,Consulenza
+C446,Centro,2026-04-28,7,738.15,13,Consegna Rapida
+C447,Isole,2025-12-17,1,126.78,100,Consulenza
+C448,Centro,2026-04-24,27,1805.78,14,Manutenzione
+C449,Centro,2026-02-06,2,123.2,80,Manutenzione
+C450,Isole,2025-12-28,8,368.96,18,Consulenza
